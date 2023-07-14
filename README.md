@@ -1,5 +1,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+👀 <a href="https://github.com/dodzonduty/Security-Audit-for-Botium-toys.git">preformeing a security audit for Botium Toys</a>
 <h2>🧐 My Certifications:</h2>
 
 <a href="https://coursera.org/share/d4181949378f4ac9eaafc32a9fd15172"> 🍒 Google Foundation of Cybersecurity</a>
