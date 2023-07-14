@@ -2,7 +2,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 👀 <a href="https://github.com/dodzonduty/Security-Audit-for-Botium-toys.git">preformeing a security audit for Botium Toys</a>
 <br>
-👀<a href="https://github.com/dodzonduty/Analyze-network-layer-communication">Analyze-network-layer-communication</a>
+<h3>🌐 Networks projects</h3>
+👀<a href="https://github.com/dodzonduty/Analyze-network-layer-communication">Analyze network layer communication</a><br>
+👀<a href="https://github.com/dodzonduty/Analyze-network-attacks-using-Wireshark"> Analyze network attack using Wireshark</a><br>
 <h2>🧐 My Certifications:</h2>
 
 <a href="https://coursera.org/share/d4181949378f4ac9eaafc32a9fd15172"> 🍒 Google Foundation of Cybersecurity</a>
