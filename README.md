@@ -1,6 +1,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 👀 <a href="https://github.com/dodzonduty/Security-Audit-for-Botium-toys.git">preformeing a security audit for Botium Toys</a>
-<br> <hr>
+<br>
+👀
+<hr>
 <h3>🌐 Networks projects</h3>
 👀<a href="https://github.com/dodzonduty/Analyze-network-layer-communication">Analyze network layer communication</a><br>
 👀<a href="https://github.com/dodzonduty/Analyze-network-attacks-using-Wireshark"> Analyze network attack using Wireshark</a><br>
