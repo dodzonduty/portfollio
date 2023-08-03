@@ -14,6 +14,7 @@
 <p><a href="https://coursera.org/share/d4181949378f4ac9eaafc32a9fd15172">🍒 Google Play It Safe</a></p>
 <p><a href="https://coursera.org/share/5b79c9660557818543b48eee18863549"> 🍒 Google Connect and Protect: Networks and Network Security</p>
 <p><a href ="https://coursera.org/share/9d146b0ff340a581bcc822585f8e3cc5"> 🍒 Google Tools of the Trade: Linux and SQL</a></p>
+<p> <a href="https://www.coursera.org/account/accomplishments/verify/GVC9HVNFXT38?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">🍒 Google Assets, Threats, and Vulnerabilities </a></p>
 
 <h2>🤳 Connect with me:</h2>
 
