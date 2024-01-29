@@ -18,12 +18,7 @@
 
 <h2>🧐 My Certifications:</h2>
 
-<a href="https://coursera.org/share/d4181949378f4ac9eaafc32a9fd15172"> 🍒 Google Foundation of Cybersecurity</a>
-<p><a href="https://coursera.org/share/d4181949378f4ac9eaafc32a9fd15172">🍒 Google Play It Safe</a></p>
-<p><a href="https://coursera.org/share/5b79c9660557818543b48eee18863549"> 🍒 Google Connect and Protect: Networks and Network Security</p>
-<p><a href ="https://coursera.org/share/9d146b0ff340a581bcc822585f8e3cc5"> 🍒 Google Tools of the Trade: Linux and SQL</a></p>
-<p> <a href="https://www.coursera.org/account/accomplishments/verify/GVC9HVNFXT38">🍒 Google Assets, Threats, and Vulnerabilities </a></p>
-
+<a href="[https://coursera.org/share/d4181949378f4ac9eaafc32a9fd15172](https://coursera.org/share/e9847d4b50b90575a703fa079b268616)"> 🍒Google Google Cybersecurity Professional Certificate </a>
 <h2>🤳 Connect with me:</h2>
 
 <a href="https://api.whatsapp.com/send?phone=201013428558" target="_blank" rel="noopener noreferrer">
