@@ -18,7 +18,7 @@
 
 <h2>🧐 My Certifications:</h2>
 
-<a href="https://coursera.org/share/d4181949378f4ac9eaafc32a9fd15172](https://coursera.org/share/e9847d4b50b90575a703fa079b268616"> 🍒Google Google Cybersecurity Professional Certificate </a>
+🍒 <a href="https://coursera.org/share/90c6059b85789bfb446f2581d34110a1"> Google Cybersecurity Professional Certificate </a><br>
 <h2>🤳 Connect with me:</h2>
 
 <a href="https://api.whatsapp.com/send?phone=201013428558" target="_blank" rel="noopener noreferrer">
