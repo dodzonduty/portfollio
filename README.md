@@ -18,7 +18,7 @@
 
 <h2>🧐 My Certifications:</h2>
 
-🍒 <a href="https://coursera.org/share/90c6059b85789bfb446f2581d34110a1"> Google Cybersecurity Professional Certificate </a><br>
+🍒 <a href="https://www.coursera.org/account/accomplishments/specialization/M678BBLPJY4N"> Google Cybersecurity Professional Certificate </a><br>
 🍒 <a href="https://app.letsdefend.io/certificate/show/80a1d906-0ece-476c-b4e8-d82f7079851b"> Letsdefend Cybersecurity for Students Learning Path </a><br>
 <h2>🤳 Connect with me:</h2>
 
