@@ -12,8 +12,10 @@
 👀<a href="https://github.com/dodzonduty/Analyze-network-layer-communication">Analyze network layer communication</a><br>
 👀<a href="https://github.com/dodzonduty/Analyze-network-attacks-using-Wireshark"> Analyze network attack using Wireshark</a><br>
 👀 <a href="https://github.com/dodzonduty/Using-the-NIST-Cybersecurity-Framework-to-respond-to-a-network-incident"> Using the NIST Cybersecurity Framework to respond to a network incident</a><br>
+
 <hr>
 <h3> 🐧 Linux System Projects</h3>
+👀 <a href="https://github.com/dodzonduty/packet-sniffer"> Python Packet sniffer </a> <br>
 <hr>
 
 <h2>🧐 My Certifications:</h2>
