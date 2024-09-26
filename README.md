@@ -23,6 +23,7 @@
 🍒 <a href="https://www.coursera.org/account/accomplishments/specialization/M678BBLPJY4N"> Google Cybersecurity Professional Certificate </a><br>
 🍒 <a href="https://app.letsdefend.io/certificate/show/80a1d906-0ece-476c-b4e8-d82f7079851b"> Letsdefend Cybersecurity for Students Learning Path </a><br>
 🍒 <a href="https://www.credly.com/badges/f7442e4a-ecab-42bf-8f1b-1b68c3c6d256/public_url"> CompTIA security+ </a> <br>
+🍒 <a href="https://coursera.org/share/20f2341baf250228e16b1258ce4a3ea5"> Universty of California San Diego Algorithmic Toolbox </a><br>
 <h2>🤳 Connect with me:</h2>
 
 <a href="https://api.whatsapp.com/send?phone=201013428558" target="_blank" rel="noopener noreferrer">
